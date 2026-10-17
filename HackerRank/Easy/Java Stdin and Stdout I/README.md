@@ -80,7 +80,7 @@ There are  lines of input, and each line contains a single integer.
 // Language: java
 
 import java.util.*;
-
+import java.util.Scanner;
 public class Solution {
 
     public static void main(String[] args) {
